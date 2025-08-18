@@ -136,7 +136,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1718646976106-john_0
+      name: John_0
       rect:
         serializedVersion: 2
         x: 0
@@ -151,14 +151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7be4821778d439747977283da12bba5d
-      internalID: 1236295765
+      spriteID: 741d7b58bd73ff1448f5f2251d953a99
+      internalID: 1267274405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_1
+      name: John_1
       rect:
         serializedVersion: 2
         x: 32
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddf8a626879f66742a5ce0bd4cce94c8
-      internalID: -357137305
+      spriteID: 2644ae3efd4c33b449d22065a7ca7461
+      internalID: 983463051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_2
+      name: John_2
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54cbe1a42c8bd2641841a3c0440346eb
-      internalID: 469136874
+      spriteID: a208d7472b6578c44b8e414e65bf6001
+      internalID: 1118576834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_3
+      name: John_3
       rect:
         serializedVersion: 2
         x: 96
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8af875f5478bb0b498b31fee7f073c8b
-      internalID: -1430211082
+      spriteID: eb91389478db2bc41a793768a43b8528
+      internalID: -677604266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_4
+      name: John_4
       rect:
         serializedVersion: 2
         x: 0
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 456edc35cd01ee242b3995979897a280
-      internalID: -1172423157
+      spriteID: 8b86d5dc3344bc44b91bfca2f91d1783
+      internalID: -863507589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_5
+      name: John_5
       rect:
         serializedVersion: 2
         x: 32
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0ca9e0d5ebabc042a86d9328bec7039
-      internalID: 1948081656
+      spriteID: 03aae22e732c4164c874dc03c4cd60ff
+      internalID: 1531956583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_6
+      name: John_6
       rect:
         serializedVersion: 2
         x: 64
@@ -283,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0f56e7673b843349bed9c13b208386b
-      internalID: 1758311861
+      spriteID: 603d780d737467f458b8a875b4e63d19
+      internalID: 1761428715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_7
+      name: John_7
       rect:
         serializedVersion: 2
         x: 96
@@ -305,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4787c885b6866a4da3ec74c70526a72
-      internalID: 1220861706
+      spriteID: c7416189c2eb9f64db34881d8f55406c
+      internalID: -2076736319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_8
+      name: John_8
       rect:
         serializedVersion: 2
         x: 0
@@ -327,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 853771cf199eabc4cac126b839373382
-      internalID: 882143926
+      spriteID: 5cbb16fdbfd541a41aadfeac0d59bd1e
+      internalID: -286402009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_9
+      name: John_9
       rect:
         serializedVersion: 2
         x: 32
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a6665e50d9615049aaed5359763359d
-      internalID: 726881635
+      spriteID: 4f02e4880815d9843a6352c441595d00
+      internalID: -2071349665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_10
+      name: John_10
       rect:
         serializedVersion: 2
         x: 64
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c31cfc0f0d45f294095db8eb00166775
-      internalID: -1507895156
+      spriteID: 3246014e8696e014c9971d3f929c7c2f
+      internalID: 185306074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_11
+      name: John_11
       rect:
         serializedVersion: 2
         x: 96
@@ -393,14 +393,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e5d1358c22ab7a41a9593d2143cbe61
-      internalID: -2010944651
+      spriteID: 83826a2e14513284198eeedaf48461d1
+      internalID: -667007861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1718646976106-john_12
+      name: John_12
       rect:
         serializedVersion: 2
         x: 0
@@ -415,8 +415,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64885be2170b8594397600e7dd5760cb
-      internalID: 1819805373
+      spriteID: 04d39e138d1281e409efb42bd7d70f70
+      internalID: 1501867381
       vertices: []
       indices: 
       edges: []
@@ -435,19 +435,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      1718646976106-john_0: 1236295765
-      1718646976106-john_1: -357137305
-      1718646976106-john_10: -1507895156
-      1718646976106-john_11: -2010944651
-      1718646976106-john_12: 1819805373
-      1718646976106-john_2: 469136874
-      1718646976106-john_3: -1430211082
-      1718646976106-john_4: -1172423157
-      1718646976106-john_5: 1948081656
-      1718646976106-john_6: 1758311861
-      1718646976106-john_7: 1220861706
-      1718646976106-john_8: 882143926
-      1718646976106-john_9: 726881635
+      John_0: 1267274405
+      John_1: 983463051
+      John_10: 185306074
+      John_11: -667007861
+      John_12: 1501867381
+      John_2: 1118576834
+      John_3: -677604266
+      John_4: -863507589
+      John_5: 1531956583
+      John_6: 1761428715
+      John_7: -2076736319
+      John_8: -286402009
+      John_9: -2071349665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
